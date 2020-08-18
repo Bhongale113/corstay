@@ -11,6 +11,8 @@
         android:theme="@style/AppTheme">
         <activity android:name=".Hotel" />
         <activity android:name=".Shankar"/>
+        <activity android:name=".Aswad"/>
+        <activity android:name=".Register"/>
         <activity android:name=".MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
