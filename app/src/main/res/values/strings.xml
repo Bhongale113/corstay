@@ -3,4 +3,6 @@
     <string name="email_username">EMAIL/USERNAME</string>
     <string name="password">PASSWORD</string>
     <string name="this_is_main_logo">this is main logo</string>
+    <string name="user_email">User/Email</string>
+    <string name="sign_in">Sign In</string>
 </resources>
