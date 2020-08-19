@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "137306913342",
+    "firebase_url": "https://corstay-78df8.firebaseio.com",
+    "project_id": "corstay-78df8",
+    "storage_bucket": "corstay-78df8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137306913342:android:cb48c37b556431fc6aef6f",
+        "android_client_info": {
+          "package_name": "com.example.corstay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137306913342-q7qpop5gmq3qkqbu8bm92sj8nu23k12a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.corstay",
+            "certificate_hash": "87206e1c4dfe6b30fc4eaa464e9ad97f12e7674e"
+          }
+        },
+        {
+          "client_id": "137306913342-s4rg2m2nth6vj8q9lcpbgvpi5vlkmqtp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1VEPATedxZJzTxzfbWcOy1M9kb2TNMBo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137306913342-s4rg2m2nth6vj8q9lcpbgvpi5vlkmqtp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
